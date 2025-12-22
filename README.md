@@ -43,10 +43,11 @@
 
 ### 🌱 **What I'm doing**
 
-- ⏸️ **Currently paused for Final Exams**
+- ⏸️ **Paused for Final Exams**
   - 현재 대학교 기말고사 기간으로 인해 학습을 잠시 중단했습니다.
   - 진행 중이던 프로젝트는 완성하였습니다.
   - 시험이 끝나는 대로 활동을 재개할 예정입니다.
+  - 시험이 끝났습니다.
 
 - 🏃 **Plan after Exams**
   - **Problem Solving (PS)**: Java와 Python을 활용한 백준(Baekjoon) 알고리즘 문제 풀이 집중
