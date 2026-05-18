@@ -43,16 +43,17 @@
 
 ### 🌱 **What I'm doing**
 
-- ⏸️ **Paused for Final Exams**
+- ⏸️ **Was Paused for Mid Terms**
   - 시험이 끝났습니다.
   - 프로젝트는 exit() / quit() 이런 명령어가 없습니다
 
-- 🏃 **Plan after Exams**
-  - **Problem Solving (PS)**: Java와 Python을 활용한 백준(Baekjoon) 알고리즘 문제 풀이 집중
-  - **Computer Science**: 자료구조 및 알고리즘, 네트워크, 데이터베이스 등 전공 기초 지식 복습
+- 🏃 **What Am I Doing?**
+  - **Study**: 인공지능, Unity, Rag & FastAPI, OOSE, Flutter etc.
+  - **Projects**: Unity 임상 간호 실습 시뮬레이터, 해외 취업 가이드, 연구실관리시스템 
 
-- **Refactoring**
-  - 기존 프로젝트 코드의 유지보수성을 높이기 위한 클린 코드(Clean Code) 학습
+- **Others**
+  - 교내 독서클럽 팀장으로 활동중 - 2학기 부터 하차
+  - 7월달에 훈련소갑니다
 
 ---
 
